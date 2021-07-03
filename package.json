@@ -1,0 +1,22 @@
+{
+  "name": "graf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "*",
+    "fetch": "^1.1.0",
+    "jsdom": "^16.5.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
